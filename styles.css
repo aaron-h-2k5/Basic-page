@@ -1,0 +1,19 @@
+h1 {
+    color: blueviolet;
+}
+
+.hero-sec {
+    text-align: center;
+    padding-top: 290px;
+    background-color: #faedcd;
+}
+.sun{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+.mountain{
+    height: 400px;
+}
